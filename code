@@ -1,0 +1,14 @@
+{
+    "data": {
+        "subject": "female",
+        "imageUrl": "https://scontent.frak2-1.fna.fbcdn.net/v/t1.18169-9/198853_211115092235456_6599679_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=cdbe9c&_nc_eui2=AeE8ck-Yi5K46ShGNXT3muo8RDW9tlBHSodENb22UEdKhy8jXjFvtisrYmBF-U22NWI&_nc_ohc=zeoJ1t2iF7YAX_NP8yV&_nc_ht=scontent.frak2-1.fna&oh=00_AfBmDHsCDHAAy-ajaUha_G4Yn8_tEclXu64CKeiE5bRijw&oe=6409E446",
+        "phoneNumber": "+14159875662",
+        "templateId": "recBnpGTP7F5toCKD",
+        "settings": "",
+        "prompt": "",
+        "role": "marketing",
+        "email": "shaharwebmail@gmail.com",
+        "negativePrompt": "green"        
+        
+    }
+}
